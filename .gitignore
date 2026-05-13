@@ -1,0 +1,4 @@
+/versions
+ai-biz-2026-spring-task-3/
+*.keras
+*.npy
